@@ -19,7 +19,7 @@ Here, you'll find a collection of guidance materials, reusable components, code 
 
 We believe in the power of community-driven development and encourage contributions to this repository. Whether it's refining existing materials, adding new resources, or sharing your unique IoT projects, your input is invaluable.
 
-Before contributing, please read our [Contribution Guidelines](Link to Contribution Guidelines).
+Before contributing, please read our [Contribution Guidelines](contribution-guidelines.md).
 
 ## Stay Connected
 
