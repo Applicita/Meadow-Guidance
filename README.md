@@ -23,7 +23,7 @@ Before contributing, please read our [Contribution Guidelines](Link to Contribut
 
 ## Stay Connected
 
-Follow us on [GitHub][Your GitHub Profile Link](https://github.com/Applicita) and [LinkedIn][Your LinkedIn Profile](https://www.linkedin.com/company/applicita-limited) to stay updated with the latest additions and updates to the repository.
+Follow us on [GitHub](https://github.com/Applicita) and [LinkedIn](https://www.linkedin.com/company/applicita-limited) to stay updated with the latest additions and updates to the repository.
 
 ## License
 
