@@ -1,12 +1,12 @@
 # Applicita Meadow
 
-Welcome to the `Applicita/Meadow` – your open-source hub for building IoT solutions using DotNet and Meadow.
+Welcome to the `Meadow-Guidance` – your open-source hub for building IoT solutions using DotNet and Meadow.
 
 ## Our Vision for This Repository
 
-This repository is a collaborative space maintained by [Applicita](https://www.applicita.com). Our goal is to empower developers, engineers, and IoT enthusiasts to build innovative, efficient, and secure IoT solutions using DotNet and Meadow from Wilderness Labs.
+This repository is a collaborative space maintained by [Applicita](https://www.applicita.com). Our goal is to pass on and collect our knowledge together to empower developers, engineers, and IoT enthusiasts to build innovative, efficient, and secure IoT solutions using DotNet and Meadow from Wilderness Labs.
 
-Here, you'll find a collection of guidance materials, reusable components, code snippets, and practical examples that we've used or built to deliver solutions for our clients using Meadow. Whether you're a seasoned developer or just starting, `Applicita/Meadow` will be our offering to you of our resources to streamline your IoT development process.
+Here, you'll find a collection of guidance materials, reusable components, code snippets, and practical examples that we've used or built to deliver solutions for our clients using Meadow. Whether you're a seasoned developer or just starting, `Meadow-Guidance` is our offering to you of our resources to streamline your IoT development process.
 
 ## What's (will be) Inside
 
@@ -19,7 +19,7 @@ Here, you'll find a collection of guidance materials, reusable components, code 
 
 We believe in the power of community-driven development and encourage contributions to this repository. Whether it's refining existing materials, adding new resources, or sharing your unique IoT projects, your input is invaluable.
 
-Before contributing, please read our [Contribution Guidelines](contribution-guidelines.md).
+Before contributing, please read our [Contribution Guidelines](CONTRIBUTION-GUIDELINES.md).
 
 ## Stay Connected
 
